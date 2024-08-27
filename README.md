@@ -42,10 +42,15 @@ This Java project simulates an ATM system, offering functionalities like balance
 ## Security
 
 Default PIN: Set to 4353.
+
 PIN Validation: Required for all operations.
+
 
 ## Future Enhancements
 
 Support for multiple accounts
+
 Persistent data storage
+
 Enhanced security features
+
