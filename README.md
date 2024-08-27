@@ -18,17 +18,11 @@ This Java project simulates an ATM system, offering functionalities like balance
 
 ### Running the Application
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/atm-simulation-java.git
-   cd atm-simulation-java
-
 1. **Compile the Java files:**
 
    javac ATMSimulation.java
    
-1. **Run the ATM Simulation:**
+2. **Run the ATM Simulation:**
 
    java ATMSimulation
    
