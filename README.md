@@ -29,10 +29,15 @@ This Java project simulates an ATM system, offering functionalities like balance
 ## Menu Options
 
 **1. Balance Inquiry:** Displays account balance.
+
 **2. Cash Withdrawal:** Withdraw funds if minimum amount is ₹100 and balance is sufficient.
+
 **3. Cash Deposit:** Deposit funds, minimum ₹100.
+
 **4. PIN Change:** Update PIN after validation.
+
 **5. Transaction History:** View transaction history.
+
    
 ## Security
 
